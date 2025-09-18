@@ -228,42 +228,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-49" value="验证信息是否完整" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;flipH=1;fillColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="227" y="30" width="160" height="40" as="geometry" />
+          <mxGeometry x="1211" y="-29" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-50" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="225" y="-86" width="2" height="447" as="geometry" />
+          <mxGeometry x="1209" y="-145" width="2" height="447" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-51" value="业务受理" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="12" y="121" width="140" height="60" as="geometry" />
+          <mxGeometry x="996" y="62" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-52" value="错误处理" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="497" y="50" width="100" height="40" as="geometry" />
+          <mxGeometry x="1481" y="-9" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-53" value="输入客户信息、车辆信息、故障信息" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="227" y="-36" width="210" height="40" as="geometry" />
+          <mxGeometry x="1211" y="-95" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.532;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="zsh7o2_WxeSzNiQTuZGd-51" target="zsh7o2_WxeSzNiQTuZGd-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=160;exitDy=40;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zsh7o2_WxeSzNiQTuZGd-56">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="497" y="140" as="targetPoint" />
+            <mxPoint x="1481" y="81" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-56" value="判断是否为新用户" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;flipH=1;fillColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="227" y="100" width="160" height="40" as="geometry" />
+          <mxGeometry x="1211" y="41" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-57" value="错误处理" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="495" y="121" width="100" height="40" as="geometry" />
+          <mxGeometry x="1479" y="62" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-58" value="生成工单号，状态设为“待派单”" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="227" y="161" width="210" height="40" as="geometry" />
+          <mxGeometry x="1211" y="102" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-59" value="输出工单数据至维修管理模块" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="227" y="220" width="210" height="40" as="geometry" />
+          <mxGeometry x="1211" y="161" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-60" value="返回受理成功提示" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="227" y="276" width="210" height="40" as="geometry" />
+          <mxGeometry x="1211" y="217" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
