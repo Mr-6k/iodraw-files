@@ -169,7 +169,7 @@
           <mxGeometry x="-2" y="-136" width="2" height="356" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-8" value="业务受理" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="20" width="140" height="60" as="geometry" />
+          <mxGeometry x="-211" y="12" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-11" value="Parameter1 spec." style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="270" y="122" width="100" height="40" as="geometry" />
@@ -183,7 +183,7 @@
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-15" value="输入客户信息、车辆信息、故障信息" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry y="-70" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zsh7o2_WxeSzNiQTuZGd-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.532;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zsh7o2_WxeSzNiQTuZGd-8" target="zsh7o2_WxeSzNiQTuZGd-5">
+        <mxCell id="zsh7o2_WxeSzNiQTuZGd-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.532;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="zsh7o2_WxeSzNiQTuZGd-8" target="zsh7o2_WxeSzNiQTuZGd-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
