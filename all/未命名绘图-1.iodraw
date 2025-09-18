@@ -233,13 +233,13 @@
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-50" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="1209" y="-145" width="2" height="447" as="geometry" />
         </mxCell>
-        <mxCell id="zsh7o2_WxeSzNiQTuZGd-51" value="业务受理" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="zsh7o2_WxeSzNiQTuZGd-51" value="库存管理" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="996" y="62" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-52" value="错误处理" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1481" y="-9" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zsh7o2_WxeSzNiQTuZGd-53" value="输入客户信息、车辆信息、故障信息" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="zsh7o2_WxeSzNiQTuZGd-53" value="接收领用请求（配件ID、数量）" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1211" y="-95" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.532;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="zsh7o2_WxeSzNiQTuZGd-51" target="zsh7o2_WxeSzNiQTuZGd-50">
