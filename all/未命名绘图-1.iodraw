@@ -154,7 +154,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-1" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="124" y="160" width="136" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
