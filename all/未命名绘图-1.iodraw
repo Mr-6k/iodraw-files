@@ -180,6 +180,9 @@
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-15" value="输入客户信息、车辆信息、故障信息" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry y="-71" width="205" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="zsh7o2_WxeSzNiQTuZGd-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="8" y="-126" width="2" height="356" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
