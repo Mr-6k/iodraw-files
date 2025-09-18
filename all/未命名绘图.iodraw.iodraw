@@ -149,12 +149,117 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mCvkvYO6xda_O8CCZK4I" name="第 2 页">
-    <mxGraphModel dx="1494" dy="1016" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1894" dy="1416" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-46" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-310" width="60" height="30" as="geometry" />
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-47" value="┌───────────────────────────────────────────────────────────────────────┐" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-133" y="-765" width="666" height="936" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-48" value="│ 步骤1：初始化 - 接收输入数据                                          │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="26" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-49" value="│ （输入：业务受理模块的工单数据 + 库存模块的配件库存数据）              │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="52" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-50" value="│ （依据：《总体设计说明书》2.4节维修管理模块IPO表）                    │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="78" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-51" value="├───────────────────────────────────────────────────────────────────────┤" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="104" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-52" value="│ 步骤2：库存判断 - 工单所需配件库存是否充足？                          │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="130" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-53" value="│ ┌─────────────────────────────┐  ┌─────────────────────────────────┐ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="156" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-54" value="│ │ 分支A：库存充足             │  │ 分支B：库存不足                 │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="182" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-55" value="│ │ ├─────────────────────────┐ │  │ ├─────────────────────────────┐ │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="208" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-56" value="│ │ │ 步骤3：派单处理          │ │  │ │ 步骤3：触发库存预警          │ │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="234" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-57" value="│ │ │ （1）分配维修技师（按专长匹配）│ │  │ │ （1）向库存管理员推送预警通知 │ │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="260" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-58" value="│ │ │ （2）生成派工单（含工单ID/技师ID）│ │  │ │ （2）记录预警日志（操作人/时间）│ │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="286" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-59" value="│ │ ├─────────────────────────┘ │  │ ├─────────────────────────────┘ │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="312" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-60" value="│ │ │ 步骤4：维修执行          │ │  │ │ 步骤4：等待库存补充          │ │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="338" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-61" value="│ │ │ （1）技师领取派工单       │ │  │ │ （1）人工确认配件入库后       │ │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="364" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-62" value="│ │ │ （2）录入维修记录（配件使用量/工时）│ │  │ │ （2）返回“步骤2”重新判断库存 │ │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="390" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-63" value="│ │ │ （3）进度跟踪：实时更新工单状态为“维修中”│ │  │ ├─────────────────────────────┘ │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="416" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-64" value="│ │ ├─────────────────────────────┤ │  │ │ 步骤5：分支B结束              │ │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="442" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-65" value="│ │ │ 步骤5：质量检验          │ │  │ │ （输出：待库存补充的工单状态通知）│ │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="468" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-66" value="│ │ │ ┌─────────────────────┐  ┌─────────────────────┐                │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="494" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-67" value="│ │ │ │ 分支A1：质检合格    │  │ 分支A2：质检不合格  │                │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="520" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-68" value="│ │ │ │ ├─────────────────┐ │  │ ├─────────────────┐ │                │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="546" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-69" value="│ │ │ │ │ 步骤6：费用汇总  │ │  │ │ 步骤6：重新维修  │ │                │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="572" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-70" value="│ │ │ │ │ （1）计算工时费+配件费 │ │  │ │ （1）推送“需重新维修”通知给技师 │ │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="598" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-71" value="│ │ │ │ │ （2）生成维修费用明细   │ │  │ │ （2）返回“步骤4”重新执行维修 │ │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="624" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-72" value="│ │ │ │ ├─────────────────┘ │  │ ├─────────────────┘ │                │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="650" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-73" value="│ │ │ │ │ 步骤7：输出结果  │ │  │ │ 步骤7：分支A2循环 │ │                │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="676" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-74" value="│ │ │ │ │ （1）向库存模块发「配件领用请求」│ │  │ │ （循环至质检合格）     │ │                │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="702" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-75" value="│ │ │ │ │ （2）向账单模块发「维修费用明细」│ │  │ └─────────────────────┘ │                │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="728" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-76" value="│ │ │ │ │ （3）向客户/业务模块推「工单完成」通知│ │                      │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="754" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-77" value="│ │ │ │ └─────────────────────┘ │  │ 步骤8：分支B终止  │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="780" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-78" value="│ │ │ └─────────────────────────────┘  │                      │ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="806" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-79" value="│ │ └─────────────────────────────┘  └─────────────────────────────────┘ │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="832" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-80" value="├───────────────────────────────────────────────────────────────────────┤" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="858" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-81" value="│ 步骤8：流程终止                                                       │" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="884" width="666" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-82" value="└───────────────────────────────────────────────────────────────────────┘" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nYe__aMjkx9ZqFCy6Cb3-47">
+          <mxGeometry y="910" width="666" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
