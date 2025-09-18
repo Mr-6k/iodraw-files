@@ -195,7 +195,7 @@
           <mxGeometry y="226" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-35" value="分配维修技师" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;flipH=1;fillColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="656" y="-56" width="212" height="40" as="geometry" />
+          <mxGeometry x="656" y="-56" width="228" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="654" y="-172" width="2" height="447" as="geometry" />
@@ -204,7 +204,7 @@
           <mxGeometry x="441" y="35" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-39" value="接收工单数据" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="656" y="-122" width="210" height="40" as="geometry" />
+          <mxGeometry x="656" y="-122" width="228" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.532;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="zsh7o2_WxeSzNiQTuZGd-37" target="zsh7o2_WxeSzNiQTuZGd-36">
           <mxGeometry relative="1" as="geometry" />
