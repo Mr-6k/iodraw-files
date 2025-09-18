@@ -176,11 +176,14 @@
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=160;exitDy=40;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zsh7o2_WxeSzNiQTuZGd-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="404" y="217" as="targetPoint" />
+            <mxPoint x="270" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-28" value="验证信息是否完整" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;flipH=1;fillColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="134" y="177" width="160" height="40" as="geometry" />
+          <mxGeometry y="50" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zsh7o2_WxeSzNiQTuZGd-30" value="Parameter1 spec." style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="10" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
