@@ -154,25 +154,25 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-2" value="输入客户" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;flipH=1;fillColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-2" y="-22" width="160" height="40" as="geometry" />
+          <mxGeometry x="-111" y="-22" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-3" value="Trigger1 spec." style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;flipH=1;fillColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-2" y="37" width="160" height="40" as="geometry" />
+          <mxGeometry x="-42" y="37" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-4" value="Trigger1 spec." style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;flipH=1;fillColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-2" y="99" width="160" height="40" as="geometry" />
+          <mxGeometry x="27" y="99" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="-7" y="-77" width="5" height="296" as="geometry" />
+          <mxGeometry x="-102" y="-77" width="5" height="296" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-8" value="Parameter1 spec." style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-256" y="29" width="140" height="60" as="geometry" />
+          <mxGeometry x="-239" y="29" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-11" value="Parameter1 spec." style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="266" y="35" width="96" height="40" as="geometry" />
+          <mxGeometry x="128" y="35" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-12" value="Parameter1 spec." style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="266" y="-22" width="96" height="40" as="geometry" />
+          <mxGeometry x="197" y="-22" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-13" value="Parameter1 spec." style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="266" y="99" width="96" height="40" as="geometry" />
