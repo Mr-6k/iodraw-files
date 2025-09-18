@@ -231,7 +231,7 @@
           <mxGeometry x="1211" y="-29" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-50" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="1209" y="-164" width="2" height="466" as="geometry" />
+          <mxGeometry x="1209" y="-164" width="2" height="336" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-51" value="库存管理" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="994" y="55" width="140" height="60" as="geometry" />
@@ -250,12 +250,6 @@
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-58" value="记录库存变动日志" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1211" y="102" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="zsh7o2_WxeSzNiQTuZGd-59" value="输出工单数据至维修管理模块" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1211" y="161" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="zsh7o2_WxeSzNiQTuZGd-60" value="返回受理成功提示" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1211" y="217" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-61" value="查询当前库存" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1211" y="-86" width="210" height="40" as="geometry" />
