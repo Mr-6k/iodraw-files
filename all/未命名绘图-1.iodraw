@@ -195,34 +195,34 @@
           <mxGeometry y="226" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-35" value="分配维修技师" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;flipH=1;fillColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="656" y="-56" width="228" height="40" as="geometry" />
+          <mxGeometry x="660" y="-60" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="654" y="-172" width="2" height="501" as="geometry" />
+          <mxGeometry x="650" y="-170" height="500" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-37" value="维修管理" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="441" y="65" width="140" height="60" as="geometry" />
+          <mxGeometry x="440" y="70" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-39" value="接收工单数据" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="656" y="-122" width="228" height="40" as="geometry" />
+          <mxGeometry x="660" y="-120" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.532;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="zsh7o2_WxeSzNiQTuZGd-37" target="zsh7o2_WxeSzNiQTuZGd-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-42" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;生成配件领用请求，发送至库存模块&lt;/font&gt;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;flipH=1;fillColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="656" y="14" width="230" height="40" as="geometry" />
+          <mxGeometry x="660" y="10" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-44" value="等待维修记录和质检结果输入" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="656" y="75" width="210" height="40" as="geometry" />
+          <mxGeometry x="660" y="80" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-45" value="汇总维修费用（工时费 + 配件费）" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="656" y="134" width="210" height="40" as="geometry" />
+          <mxGeometry x="660" y="130" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-46" value="输出费用明细至账单结算模块" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="656" y="190" width="210" height="40" as="geometry" />
+          <mxGeometry x="660" y="190" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-47" value="更新工单状态为“已完成”" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="656" y="246" width="210" height="40" as="geometry" />
+          <mxGeometry x="660" y="250" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
