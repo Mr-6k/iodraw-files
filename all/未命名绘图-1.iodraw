@@ -157,10 +157,13 @@
           <mxGeometry x="-2" y="-22" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-3" value="Trigger1 spec." style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;flipH=1;fillColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="8" y="-12" width="160" height="40" as="geometry" />
+          <mxGeometry x="-2" y="37" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-4" value="Trigger1 spec." style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;flipH=1;fillColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-16" y="106" width="160" height="40" as="geometry" />
+          <mxGeometry x="-2" y="99" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zsh7o2_WxeSzNiQTuZGd-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="197" y="160" width="5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
