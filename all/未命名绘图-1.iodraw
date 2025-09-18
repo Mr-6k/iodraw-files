@@ -221,6 +221,9 @@
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-46" value="输出费用明细至账单结算模块" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="656" y="190" width="210" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="zsh7o2_WxeSzNiQTuZGd-47" value="输出费用明细至账单结算模块" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="663" y="246" width="210" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
