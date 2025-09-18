@@ -163,7 +163,7 @@
           <mxGeometry y="100" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="-80" width="10" height="300" as="geometry" />
+          <mxGeometry x="-2" y="-136" width="2" height="356" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-8" value="Parameter1 spec." style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-240" y="30" width="140" height="60" as="geometry" />
