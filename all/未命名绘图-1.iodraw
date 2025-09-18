@@ -188,8 +188,11 @@
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-31" value="生成工单号，状态设为“待派单”" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry y="111" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zsh7o2_WxeSzNiQTuZGd-32" value="生成工单号，状态设为“待派单”" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="zsh7o2_WxeSzNiQTuZGd-32" value="输出工单数据至维修管理模块" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry y="170" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zsh7o2_WxeSzNiQTuZGd-33" value="输出工单数据至维修管理模块" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry y="226" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
