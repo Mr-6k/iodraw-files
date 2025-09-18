@@ -201,7 +201,7 @@
           <mxGeometry x="654" y="-172" width="2" height="501" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-37" value="维修管理" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="441" y="35" width="140" height="60" as="geometry" />
+          <mxGeometry x="441" y="65" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-39" value="接收工单数据" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="656" y="-122" width="228" height="40" as="geometry" />
@@ -221,7 +221,7 @@
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-46" value="输出费用明细至账单结算模块" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="656" y="190" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zsh7o2_WxeSzNiQTuZGd-47" value="输出费用明细至账单结算模块" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="zsh7o2_WxeSzNiQTuZGd-47" value="更新工单状态为“已完成”" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="656" y="246" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
