@@ -209,7 +209,7 @@
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-38" value="错误处理" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="926" y="-36" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zsh7o2_WxeSzNiQTuZGd-39" value="输入客户信息、车辆信息、故障信息" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="zsh7o2_WxeSzNiQTuZGd-39" value="接收工单数据" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="656" y="-122" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsh7o2_WxeSzNiQTuZGd-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.532;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="zsh7o2_WxeSzNiQTuZGd-37" target="zsh7o2_WxeSzNiQTuZGd-36">
