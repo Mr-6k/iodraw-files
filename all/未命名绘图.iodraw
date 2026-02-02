@@ -149,13 +149,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mCvkvYO6xda_O8CCZK4I" name="第 2 页">
-    <mxGraphModel dx="882" dy="582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1282" dy="582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nYe__aMjkx9ZqFCy6Cb3-83" value="开始&#xa;&lt;small&gt;输入：工单数据+配件库存数据&lt;/small&gt;" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="432" y="20" width="244" height="101" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
