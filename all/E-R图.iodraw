@@ -222,10 +222,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yvn-jfKLVfBQjk2dfpTj-40" value="M" style="resizable=0;html=1;whiteSpace=wrap;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="Yvn-jfKLVfBQjk2dfpTj-39">
-          <mxGeometry x="-1" relative="1" as="geometry" />
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="10" y="20" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Yvn-jfKLVfBQjk2dfpTj-41" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="Yvn-jfKLVfBQjk2dfpTj-39">
-          <mxGeometry x="1" relative="1" as="geometry" />
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="20" y="-10" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
