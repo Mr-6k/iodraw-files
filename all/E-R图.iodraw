@@ -338,7 +338,7 @@
         <mxCell id="Yvn-jfKLVfBQjk2dfpTj-79" value="接受" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="160" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Yvn-jfKLVfBQjk2dfpTj-80" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
+        <mxCell id="Yvn-jfKLVfBQjk2dfpTj-80" value="" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="160" y="-410" as="geometry">
             <mxPoint x="-203" y="-22" as="offset" />
           </mxGeometry>
